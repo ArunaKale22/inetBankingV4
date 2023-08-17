@@ -1,2 +1,2 @@
 # inetBankingV4
-This is my readfile.
+This is my readme file.
